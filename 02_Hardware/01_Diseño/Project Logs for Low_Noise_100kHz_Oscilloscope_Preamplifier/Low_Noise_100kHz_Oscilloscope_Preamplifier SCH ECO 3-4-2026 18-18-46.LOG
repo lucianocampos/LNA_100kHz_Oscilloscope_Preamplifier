@@ -1,0 +1,38 @@
+Change Component Parameter Comment in SW2 Old= New=Interruptor 2P4T
+Change Value of Parameter ComponentLink1Description in Part SW2 Old=01_Digikey New=A_Datasheet
+Change Value of Parameter ComponentLink2Description in Part SW2 Old=02_Datasheet New=B_Digikey
+Change Component Parameter Comment in SW3 Old= New=Interruptor 2P4T
+Change Value of Parameter ComponentLink1Description in Part SW3 Old=01_Digikey New=A_Datasheet
+Change Value of Parameter ComponentLink2Description in Part SW3 Old=02_Datasheet New=B_Digikey
+Change Component Parameter Comment in SW4 Old= New=Interruptor 2P4T
+Change Value of Parameter ComponentLink1Description in Part SW4 Old=01_Digikey New=A_Datasheet
+Change Value of Parameter ComponentLink2Description in Part SW4 Old=02_Datasheet New=B_Digikey
+Change Component Parameter Comment in SW5 Old= New=Interruptor 2P4T
+Change Value of Parameter ComponentLink1Description in Part SW5 Old=01_Digikey New=A_Datasheet
+Change Value of Parameter ComponentLink2Description in Part SW5 Old=02_Datasheet New=B_Digikey
+Change Value of Parameter 02_Montaje in Part SW8 Old=THT New=
+Change Value of Parameter 03_Encapsulado in Part SW8 Old=- New=
+Change Value of Parameter 04_Manufacturer Part Number in Part SW8 Old=HASS0399 New=
+Change Value of Parameter 05_Digikey Part Number in Part SW8 Old=CKN10394-ND New=
+Change Value of Parameter 06_Manufacturer in Part SW8 Old=C&K New=
+Change Component Parameter Comment in SW8 Old= New=Interruptor 2P4T
+Change Value of Parameter ComponentLink1Description in Part SW8 Old=B_Digikey New=A_Datasheet
+Change Value of Parameter ComponentLink2Description in Part SW8 Old=A_Datasheet New=B_Digikey
+Change Component Parameter Description in SW8 Old=Slide Switch DP4T Through Hole New=Interruptor 2 polos 4 posiciones
+Change Value of Parameter 02_Montaje in Part SW8 Old=THT New=
+Change Value of Parameter 03_Encapsulado in Part SW8 Old=- New=
+Change Value of Parameter 04_Manufacturer Part Number in Part SW8 Old=HASS0399 New=
+Change Value of Parameter 05_Digikey Part Number in Part SW8 Old=CKN10394-ND New=
+Change Value of Parameter 06_Manufacturer in Part SW8 Old=C&K New=
+Change Component Parameter Comment in SW8 Old= New=Interruptor 2P4T
+Change Value of Parameter ComponentLink1Description in Part SW8 Old=A_Digikey New=A_Datasheet
+Change Value of Parameter ComponentLink1URL in Part SW8 Old=https://www.digikey.com/en/products/detail/c-k/HASS0399/2747191 New=
+Change Value of Parameter ComponentLink2Description in Part SW8 Old=B_Datasheet New=B_Digikey
+Change Value of Parameter ComponentLink2URL in Part SW8 Old=HASS0399_Interruptor_C&K New=
+Change Component Parameter Description in SW8 Old=Slide Switch DP4T Through Hole New=Interruptor 2 polos 4 posiciones
+Replace Symbol from SW2 Interruptor 2P4T in D:\Documents\GitHub\LNA_100kHz_Oscilloscope_Preamplifier\02_Hardware\01_Diseño\Low_Noise_100kHz_Oscilloscope_Preamplifier.SchDoc with Interruptor 2P4T from Libreria_Altium.IntLib
+Replace Symbol from SW3 Interruptor 2P4T in D:\Documents\GitHub\LNA_100kHz_Oscilloscope_Preamplifier\02_Hardware\01_Diseño\Low_Noise_100kHz_Oscilloscope_Preamplifier.SchDoc with Interruptor 2P4T from Libreria_Altium.IntLib
+Replace Symbol from SW4 Interruptor 2P4T in D:\Documents\GitHub\LNA_100kHz_Oscilloscope_Preamplifier\02_Hardware\01_Diseño\Low_Noise_100kHz_Oscilloscope_Preamplifier.SchDoc with Interruptor 2P4T from Libreria_Altium.IntLib
+Replace Symbol from SW5 Interruptor 2P4T in D:\Documents\GitHub\LNA_100kHz_Oscilloscope_Preamplifier\02_Hardware\01_Diseño\Low_Noise_100kHz_Oscilloscope_Preamplifier.SchDoc with Interruptor 2P4T from Libreria_Altium.IntLib
+Replace Symbol from SW8 Interruptor 2P4T in D:\Documents\GitHub\LNA_100kHz_Oscilloscope_Preamplifier\02_Hardware\01_Diseño\Low_Noise_100kHz_Oscilloscope_Preamplifier.SchDoc with Interruptor 2P4T from Libreria_Altium.IntLib
+Replace Symbol from SW8 Interruptor 2P4T in D:\Documents\GitHub\LNA_100kHz_Oscilloscope_Preamplifier\02_Hardware\01_Diseño\Low_Noise_100kHz_Oscilloscope_Preamplifier.SchDoc with Interruptor 2P4T from Libreria_Altium.IntLib
